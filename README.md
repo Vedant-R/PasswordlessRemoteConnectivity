@@ -8,4 +8,4 @@ This script file helps to establish passwordless connectivity to remote machines
 
 ## How to Run
 
-''' sh PRC.sh '''
+`sh PRC.sh`
